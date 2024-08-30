@@ -1,9 +1,8 @@
 ### Hi👋,
 I am Ali Azimi, and I am web developer. I'm currently studying my master's degree at the Technical University of Munich.
 
-🔭 I’m currently working on some projects using VueJS and NuxtJS.
 
-
+      
 <!--
 **ali4zimi/ali4zimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
