@@ -1,5 +1,5 @@
 ### Hi👋,
-I am Ali Azimi, and I am software engineer. I'm currently studying my master's degree at the Technical University of Munich.
+I am Ali Azimi, and I am data-driven full-stack developer. I design web applications, deploy them on the cloud and maintain their availability.
 
 
       
